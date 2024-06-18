@@ -1,0 +1,277 @@
+* {
+    box-sizing: border-box;
+    margin: 0;
+    padding: 0;
+}
+
+body {
+    font-family: 'Gill Sans', 'Gill Sans MT', Calibri, 'Trebuchet MS', sans-serif;
+    background-color: white;
+    color: #333;
+}
+
+header{
+    background-color: #4CAF50;
+    color: white;
+    padding: 20px;
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+    position: fixed;
+    width: 100%;
+    z-index: 100;
+  }
+  header #logo {
+    font-size: 2em;
+  }
+  
+  header .navbar a{
+    color: white;
+    font-weight: bold;
+    font-size: 18px;
+    padding: 12px 15px;
+    text-decoration: none;
+  }
+  header .navbar a:hover{
+    background-color: #45a049;
+  }
+.banner {
+    position: relative;
+    padding: 60px 0 0 0;
+}
+
+.banner img {
+    width: 100%;
+}
+
+.search-bar {
+    margin: 20px;
+    display: flex;
+    justify-content: center;
+}
+
+.search-bar input[type="text"] {
+    width: 300px;
+    padding: 10px;
+    border: 2px solid #4CAF50;
+    border-radius: 5px 0 0 5px;
+    border-right: 0;
+    outline: none;             /*On starting to type it creates balck border by default,so to avoid it v use this*/
+}
+
+.search-bar button {
+    padding: 10px 20px;
+    border: 2px solid #4CAF50;
+    border-left: 0;
+    background-color: #4CAF50;
+    color: white;
+    cursor: pointer;
+    border-radius: 0 5px 5px 0;
+}
+
+.search-bar button:hover {
+    background-color: #45a049;
+}
+
+.slideshow-container {
+    display: flex;
+    justify-content: center;
+    gap: 50px;
+    flex-wrap: wrap;
+}
+
+.slideshow {
+    position: relative;
+    width: 350px;
+    height: 350px;
+    overflow: hidden;
+    border-radius: 20px;
+    border: 2px solid #ddd;
+    box-shadow: 0 0 10px rgba(0, 0, 0, 0.1);
+}
+
+.slideshow-image {
+    position: absolute;
+    width: 100%;
+    height: 100%;
+    background-size: cover;
+    opacity: 0;
+    animation-iteration-count: infinite;
+}
+
+.image1 { background-image: url('https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQVwGVsuaL7RGKo6A_Sqq83s5_6XYFMhHsjug&s'); 
+          animation-name: fade1; 
+          animation-duration: 4s; }
+.image2 { background-image: url('https://5.imimg.com/data5/WS/NI/FV/SELLER-11710265/mad-maxx-bicycles-avengers-single-kids-cycle-500x500.jpg'); 
+          animation-name: fade2; 
+          animation-duration: 4s; }
+.image3 { background-image: url('https://5.imimg.com/data5/SELLER/Default/2022/7/YX/MH/UK/153492086/pulsar-150cc-twin-disk-500x500.png');
+          animation-name: fade3; 
+          animation-duration: 4s; }
+.image4 { background-image: url('https://cpimg.tistatic.com/07673503/b/4/Toyota-Innova-Crysta.jpg');
+          animation-name: fade1; 
+          animation-duration: 4s; }
+.image5 { background-image: url('https://tiimg.tistatic.com/fp/1/007/862/most-advanced-modern-premium-lg-7-kg-front-fully-automatic-washing-machine-255.jpg');
+          animation-name: fade2; 
+          animation-duration: 4s; }
+.image6 { background-image: url('https://5.imimg.com/data5/SELLER/Default/2022/3/MI/KE/UL/19250422/whirlpool-1-0-ton-3-star-inverter-split-ac-500x500.jpg');
+          animation-name: fade3; 
+          animation-duration: 4s; }
+.image7 { background-image: url('https://5.imimg.com/data5/SELLER/Default/2021/8/HZ/XR/AC/8962391/household-vacuum-cleaner-500x500.jpg');
+          animation-name: fade1; 
+          animation-duration: 4s; }
+.image8 { background-image: url('https://static.nbastore.in/resized/500X500/50/nba-authentic-series-indoor-outdoor-basketball-size-7-brown-65146fd7e6af2.jpg'); 
+          animation-name: fade2; 
+          animation-duration: 4s; }
+.image9 { background-image: url('https://m.media-amazon.com/images/I/61KOc8c4xQL._SL1200_.jpg'); 
+          animation-name: fade3; 
+          animation-duration: 4s; }
+
+@keyframes fade1 {
+    0%, 33.33% { opacity: 1; }
+    33.34%, 100% { opacity: 0; }
+}
+@keyframes fade2 {
+    0%, 33.33% { opacity: 0; }
+    33.34%, 66.66% { opacity: 1; }
+    66.67%, 100% { opacity: 0; }
+}
+@keyframes fade3 {
+    0%, 66.66% { opacity: 0; }
+    66.67%, 100% { opacity: 1; }
+}
+
+.container {
+    position: relative;
+    max-width: 100%;
+  }
+  
+    .image {
+        opacity: 1;
+        display: block;
+        width: 100%;
+        height: auto;
+    }
+  
+  .middle {
+    opacity: 0;
+    position: absolute;
+    top: 50%;
+    left: 50%;
+    transform: translate(-50%, -50%);
+    text-align: center;
+  }
+  .text {
+    color: #4CAF50;
+    font-size: 16px;
+    padding: 16px 32px;
+    font-weight: bold;
+  }
+  .container:hover .image {
+    opacity: 0.3;
+  }
+  
+  .container:hover .middle {
+    opacity: 1;
+  }
+  
+  
+.product-listings {
+    display: flex;
+    flex-wrap: wrap;
+    justify-content: center;
+    margin: 20px;
+    border: 5px solid #4CAF50;
+    border-radius: 15px;
+    padding: 25px;
+}
+
+.product {
+    background-color: white;
+    border: 2px solid #e0e0e0;
+    border-radius: 10px;
+    margin: 30px;
+    padding: 15px;
+    width: 220px;
+    text-align: center;
+    transition: transform 0.5s, box-shadow 0.3s;
+}
+
+.product:hover {
+    box-shadow: 0 4px 8px rgba(0, 0, 0, 0.2);
+    transform: scale(1.05);
+}
+
+.product img {
+    max-width: 100%;
+    border-bottom: 1px solid #e0e0e0;
+    margin-bottom: 10px;
+}
+
+.product-info h2 {
+    font-size: 1.2em;
+    margin-bottom: 10px;
+    color: #4CAF50;
+}
+
+.product-info p {
+    font-size: 1em;
+    color: #777;
+}
+
+.footer {
+    background-color: #4CAF50;
+    color: white;
+    text-align: center;
+    padding: 20px 0;
+    margin-top: 40px;
+}
+
+.footer-container {
+    display: flex;
+    flex-wrap: wrap;
+    justify-content: center;
+}
+
+.footer-column {
+    width: 30%;
+    margin: 10px;
+}
+
+.footer-column h3 {
+    border-bottom: 2px solid #fff;
+    padding-bottom: 10px;
+    margin-bottom: 15px;
+}
+
+.footer-column ul {
+    list-style-type: none;
+}
+
+.footer-column ul li {
+    margin: 10px ;
+}
+
+.footer-column ul li a {
+    color: white;
+    text-decoration: none;
+}
+
+.footer-column p {
+    margin-top: 10px;
+}
+
+.footer-column .social-icons {
+    margin-top: 10px;
+}
+
+.footer-column .social-icons a {
+    color: white;
+    text-decoration: none;
+    margin: 0 10px;
+    font-size: 20px;
+}
+
+
+
+  
