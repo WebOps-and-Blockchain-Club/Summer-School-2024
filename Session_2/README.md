@@ -19,4 +19,4 @@
 
  Deadline for submission : **24th june EOD**
 
- Submission link : [Google Forms](https://forms.gle/xbWPxV455UTyYJrs7)
+ Submission link : [Google Forms](https://docs.google.com/forms/d/e/1FAIpQLScqpFe7WMeS1_D9VURTbNdFkRaeXkv1QDdA7JXZ1GMdk0Z-uw/viewform?usp=sf_link)
