@@ -2,11 +2,11 @@
  This contains the slides, figma link and recordings of session 2 of summer school 2024
  
 ## Slides and Recordings  
- Slides are uploaded in session 2 folder
+ Session 2 slides : [Google Drive](https://1drv.ms/p/c/de50d331684fab25/EZOw2AoznCNLpgdKsADsugYBhosEMBgGLkkxxDEI4NAELQ?e=1iwvfA)
 
  Recordings of Session 2 :
 
- figma link of the website : https://www.figma.com/design/vS2qBI75ifczBGnvYfezgF/app?node-id=270-53&t=gqkdOqhi2aeP3xHQ-1
+ Figma link of the website : https://www.figma.com/design/vS2qBI75ifczBGnvYfezgF/app?node-id=270-53&t=gqkdOqhi2aeP3xHQ-1
 
  ## Task 
 
