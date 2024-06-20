@@ -19,6 +19,6 @@
 
  Ensure that the interface is user friendly and attractive. Explore through existing similar website and make your website more professional and interactive 
 
- Deeadline for submission : **24th june**
+ Deadline for submission : **24th june EOD**
 
  Submission link : [Google Forms](https://forms.gle/xbWPxV455UTyYJrs7)
