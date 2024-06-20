@@ -6,7 +6,7 @@
 
  Recordings of Session 2 :
 
- figma link of the website :
+ figma link of the website : https://www.figma.com/design/vS2qBI75ifczBGnvYfezgF/app?node-id=270-53&t=gqkdOqhi2aeP3xHQ-1
 
  ## Task 
 
@@ -21,4 +21,4 @@
 
  Deeadline for submission : **24th june**
 
- Submission link : 
+ Submission link : [Google Forms](https://forms.gle/xbWPxV455UTyYJrs7)
