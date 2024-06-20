@@ -4,6 +4,8 @@
 ## Slides and Recordings  
  Session 2 slides : [Google Drive](https://1drv.ms/p/c/de50d331684fab25/EZOw2AoznCNLpgdKsADsugYBhosEMBgGLkkxxDEI4NAELQ?e=1iwvfA)
 
+ Session 2 Recording : https://youtu.be/mXAx7EpGcC0
+
  Figma link of the website : [figma link](https://www.figma.com/design/vS2qBI75ifczBGnvYfezgF/app?node-id=270-53&t=gqkdOqhi2aeP3xHQ-1)
 
  ## Task 
