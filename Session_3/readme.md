@@ -46,6 +46,9 @@
 
 *->calculate the CGPA*
 
+**IMP!!
+Please access the file containing updated code snippets that are helpful for the task**
+
 You can refer to this [website](https://nagasai6.github.io/iit-madras-gpa/) to get an idea for the user interface.
 
 ## Task 2
@@ -55,3 +58,5 @@ You can refer to this [website](https://nagasai6.github.io/iit-madras-gpa/) to g
 
 
 **Deadline for the submission is 26th June EOD**
+
+**Submission link:[google forms](https://forms.gle/u8fRYyJ1XBMV9BDu6)
