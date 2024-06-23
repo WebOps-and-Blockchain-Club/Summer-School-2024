@@ -52,3 +52,6 @@ You can refer to this [website](https://nagasai6.github.io/iit-madras-gpa/) to g
 
 
 **Create a game using HTML and JavaScript where the user inputs a number. The program should display whether the entered number is greater or smaller than a target number. Continue providing feedback until the user correctly guesses the target number.**
+
+
+**Deadline for the submission is 26th June EOD**
