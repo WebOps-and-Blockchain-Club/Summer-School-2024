@@ -1,4 +1,4 @@
-#Session-3-Summer-School
+# Session-3-Summer-School
 
 ## Slides and Recordings  
 
@@ -10,8 +10,9 @@
 
  ## Task 1
 
-we need you to create an insti CGPA calculator
-1.Front-End Design:
+**we need you to create an insti CGPA calculator**
+
+**1.Front-End Design:**
 
 *->Create an HTML form with the following elements:*
 
@@ -21,7 +22,7 @@ we need you to create an insti CGPA calculator
 
 *->Upon submission, dynamically generate input fields for course names and grade inputs based on the entered total number of courses.*
 
-2.Dynamic Input Generation:
+**2.Dynamic Input Generation:**
 
 *->Use JavaScript to handle the form submission.*
 
@@ -29,7 +30,7 @@ we need you to create an insti CGPA calculator
 
 *->Generate input fields for course names and grade inputs dynamically using DOM manipulation.*
 
-3.CGPA Calculation:
+**3.CGPA Calculation:**
 
 *User Input*
 
@@ -48,3 +49,6 @@ we need you to create an insti CGPA calculator
 You can refer to this [website](https://nagasai6.github.io/iit-madras-gpa/) to get an idea for the user interface.
 
 ## Task 2
+
+
+**Create a game using HTML and JavaScript where the user inputs a number. The program should display whether the entered number is greater or smaller than a target number. Continue providing feedback until the user correctly guesses the target number.**
