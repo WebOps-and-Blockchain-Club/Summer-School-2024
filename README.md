@@ -4,7 +4,6 @@
  Session 2 Recording : [https://youtu.be/eXa8Axa4xjU]
 
 
-
  ## Task 1
 
 we need you to create an insti CGPA calculator
