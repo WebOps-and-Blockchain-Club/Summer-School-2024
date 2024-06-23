@@ -16,8 +16,11 @@ we need you to create an insti CGPA calculator
 
 2.Dynamic Input Generation:
 *->Use JavaScript to handle the form submission.*
+
 *->Retrieve the total number of courses entered by the user.*
+
 *->Generate input fields for course names and grade inputs dynamically using DOM manipulation.*
+
 3.CGPA Calculation:
 *User Input*
 *->The user provides course codes and grades*
