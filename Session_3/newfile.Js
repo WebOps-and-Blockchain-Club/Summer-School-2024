@@ -294,6 +294,16 @@ const value = document.getElementById("course_input").value
 // you can use this entered value for your next tasks
 
 
+// To find the corresponding credit from the code 
+//const creditsByCode = [];
+       // courses.forEach((course) => {
+        //     const foundCourse = course_details.courseDetails.find((c) => c.code === course);
+        //     if (foundCourse) {
+        //         creditsByCode.push(foundCourse.credits);
+        //     }
+        // });
+        // console.log(creditsByCode)
+
 
 // console.log(p_tag[0].innerHTML)
 // const new_elem = document.getElementsByClassName("new_class");
