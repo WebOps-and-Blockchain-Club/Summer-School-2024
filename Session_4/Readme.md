@@ -5,6 +5,7 @@
 Session 4 slides : https://docs.google.com/presentation/d/1e1oBklmcZWAw36FM9gryU1-tWcFY1-dE/edit?usp=sharing&ouid=108023306512248566676&rtpof=true&sd=true
 
 Session 4 Recording:- https://youtu.be/ELDfkZFve04
+
 Task Description:  
 
 Create a REST API for InstiOlxObjective: Develop a robust RESTful API for InstiOlx, an e-commerce platform, to manage products effectively. The API should enable users to perform CRUD (Create, Read, Update, Delete) operations on the product catalog.Scope of Work:Setup and Configuration:Configure the development environment for building and testing the API.Set up a relational database to store product information.
