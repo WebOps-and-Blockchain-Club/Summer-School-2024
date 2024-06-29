@@ -4,7 +4,7 @@
 
 Slides: https://docs.google.com/presentation/d/1tvGVVymT1kKgrzec2lKUsTuB7S5Y_hw5hRZrzSuMM84/edit?usp=sharing
 
-## Task: 
+## Task : 
 
 Grade Book Smart Contract
 
