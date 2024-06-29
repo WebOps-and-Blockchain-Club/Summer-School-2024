@@ -3,7 +3,7 @@
 ## Slides and recording
 
 1. [Sildes](https://docs.google.com/presentation/d/1eHTQ21PpZnCu5mYxcRt1sFtKtu_rD6SvyjNskhNSSHg/edit?usp=sharing)
-2. [Session Recording](https://smailiitmacin.sharepoint.com/:v:/s/WebopsandBlockchainClubSummerSchool24-group/EfFV1AEU8INLp0oWNObnbn0B8zKw-h5j0vqNd_tt5vAAHQ?e=0kwJWq)
+2. [Session Recording](https://youtu.be/ONXlUkpHNgg)
 
 ## Task Description 
 
